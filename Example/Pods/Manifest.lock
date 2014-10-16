@@ -1,0 +1,14 @@
+PODS:
+  - AESCrypt-ObjC (0.1.0)
+
+DEPENDENCIES:
+  - AESCrypt-ObjC (from `../`)
+
+EXTERNAL SOURCES:
+  AESCrypt-ObjC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AESCrypt-ObjC: aa42d430ec785fd219f9b7eede8c45ee97aff2bf
+
+COCOAPODS: 0.34.1
